@@ -1,0 +1,8 @@
+detection_rules:
+  suspicious_parent_child:
+    - source: bash
+      target: curl
+      severity: MEDIUM
+    - source: python3
+      target: bash
+      severity: HIGH

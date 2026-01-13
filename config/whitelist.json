@@ -1,0 +1,15 @@
+{
+  "processes": [
+    "bash",
+    "python3",
+    "grep",
+    "ps",
+    "netstat",
+    "systemctl",
+    "ssh",
+    "curl",
+    "wget",
+    "apt",
+    "dpkg"
+  ]
+}
